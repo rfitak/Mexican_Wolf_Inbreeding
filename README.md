@@ -1,7 +1,7 @@
 # Mexican_Wolf_Inbreeding
 An analysis of inbreeding in Mexican wolves using a genome-wide set of SNP markers
 
-The repository contains code for the calculation, comparison, and simulation of inbreeding coefficients in the endangered Mexican wolf.  Please follow the links below to get the code and associated descriptions for various analyses and data processing.  The results of this study have been published in Fitak et al. (in review) *Conservation Genetics*
+The repository contains code for the calculation, comparison, and simulation of inbreeding coefficients in the endangered Mexican wolf.  Please follow the links below to get the code and associated descriptions for various analyses and data processing.  The results of this study have been published in Fitak et al. (in review) *Conservation Genetics*.  
 Some ancillary data files and custom scripts are available in the [Data](./Data) and [Scripts](./Scripts) folders, respectively.
 
 1. [Analyzing the initial Mexican wolf genotypes](./MW-data-processing.md)
